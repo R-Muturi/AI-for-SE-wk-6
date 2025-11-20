@@ -118,7 +118,7 @@ Includes:
 ## 🧪 How to Reproduce
 ### **Step 1: Clone repo**
 ```bash
-git clone <your-repo-url>
+git clone <AI-for-SE-wk-6>
 cd assignment-edge-ai
 ```
 
@@ -149,4 +149,3 @@ Copy `.tflite` and `labels.txt` to a Raspberry Pi.
 
 ---
 
-If you want, I can generate the **system_design.md**, **inference_pi.py**, or the **accuracy plot code** next.
